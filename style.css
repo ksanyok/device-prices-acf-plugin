@@ -1,0 +1,11 @@
+.editable-submit:before {
+    content: "\f00c"; /* это код иконки "fa-check" в Font Awesome 5 */
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900;
+}
+
+.editable-cancel:before {
+    content: "\f00d"; /* это код иконки "fa-times" в Font Awesome 5 */
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
